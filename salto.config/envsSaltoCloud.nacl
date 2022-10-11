@@ -1,0 +1,8 @@
+envs {
+  envsCloud = [
+    {
+      uuid = "1b672041-35e6-4e11-824f-dd8643dd8fc6"
+      folderName = "Zendesk Prod"
+    },
+  ]
+}

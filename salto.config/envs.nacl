@@ -1,0 +1,10 @@
+envs {
+  envs = [
+    {
+      name = "Zendesk Prod"
+      accountToServiceName = {
+        zendesk = "zendesk"
+      }
+    },
+  ]
+}
